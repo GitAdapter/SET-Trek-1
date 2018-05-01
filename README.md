@@ -1,5 +1,5 @@
 # SET-Trek
-SET-Trek - A DirectX11 driven game Written with C++.  A 2D arcarde styled game with a StarTrek theme.
+SET-Trek - A DirectX11 driven game Written with C++.  A 2D arcade styled game with a StarTrek theme.
 
 This program is a simple 2D space exploration/ survival game. Sprites are based off of the STAR TREK universe.
 Your goal is to travel across the galaxy and collect health and resources from planets in the Enterprise while avoiding
